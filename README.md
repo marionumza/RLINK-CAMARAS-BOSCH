@@ -2,7 +2,7 @@
 
 ## Alcance del proyecto
 
-1. ###Rack con Servidor BVMS mas Monitor, teclado y Mouse, con swich y router para funcionamiento local
+1. ### Rack con Servidor BVMS mas Monitor, teclado y Mouse, con swich y router para funcionamiento local
 #### Importante
   - [x] Servidor con Windows Server 2012 que albergue el programa BVMS (necesario para el disco iSCSI)
   
