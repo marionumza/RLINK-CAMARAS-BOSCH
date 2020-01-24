@@ -29,3 +29,8 @@
   
 ## Enlaces Importantes
 - [Google Drive](https://drive.google.com/drive/folders/1FrOAyKeX065JWgvLuxZXtvzO_pDl1mcq?usp=sharing) 
+
+
+✅ Encender y apagar led (rele) con comandos CGI
+❌Incluir Usuario y Contraseña en los comandos CGI
+❌ Configurar DDNS (Para la IP publica)
