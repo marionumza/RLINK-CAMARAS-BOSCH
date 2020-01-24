@@ -3,6 +3,6 @@
 ## Alcance del proyecto
 
 ### Importantes
-[] Colocar intercomunicador entre la camara y el operator client
+- [ ] Colocar intercomunicador entre la camara y el operator client
 ### Necesarias
 ### Deseables
