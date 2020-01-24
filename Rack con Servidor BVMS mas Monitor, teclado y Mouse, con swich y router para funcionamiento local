@@ -1,1 +1,24 @@
+Materiales que se necesitaron
 
+Para desmontar y volver a montar
+- Destornillador estrella
+- Destornillador plano
+- Llaves de los cerrojos de ceguridad del rack
+
+Para el servidor
+- Pen drive para arrancar la instalación
+- Imagen de Windows server 2012 (inicialmente se eligio el Windows 2008 por tener compatibilidad con el driver de video del equipo, sin embargo no funcionó bien con el programa BVMS
+- Equipo de 8 gigas de Ram, Dos discos sata de 1 tera, procesador Intel Xeom E3-1220 v3 de 3,10 Ghz
+- Mouse
+- Teclado
+- Monitor de 17' Widescreem
+
+Para la conectividad
+- Swich TP-LINK de 16 bocas
+- Router/wifi  Microtik Routerboard de 5 bocas
+- Cables UTP CAT5 para cada dispositivo
+Modificaciones
+- Se modifico la zapatilla de tomacorrientes para que quedara de forma vertical en la parte posterior del rack ya que no tenia un espacio para atornillarla en el rack sin toparse con la bandeja del servidor
+
+El Rack que se monto para albergar el servidor BVMS es de --- x ---x--- mtr
+Se desmontó completamente para poder instalar el servidor
